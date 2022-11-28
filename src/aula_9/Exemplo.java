@@ -26,6 +26,8 @@ public class Exemplo {
 
         if(!participouPalestra.equals("sim")){
             System.out.println("voce nao ganhou");
+        } else {
+            System.out.println("voce ganhou o brinde");
         }
     }
 }
